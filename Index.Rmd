@@ -129,9 +129,9 @@ pander(index_w)
 ```
 
 
-## Scoring
+## Indexing
 
-The scoring of index will show the position of countries in the region. The results show that Maldives is a best performer and Nepal is worst performing on these indicators. Second and third position is held by Bangladesh and India, respectively. 
+The indexing will show the position of countries in the region. The results show that Maldives is a best performer and Nepal is worst performing on these indicators. Second and third position is held by Bangladesh and India, respectively. 
 
 ```{r}
 Index <- index_w %>%
@@ -170,7 +170,7 @@ pander(Rank)
 
 ```
 
-Component wise index will show the score of countries on each indicators. 
+Component wise index will show the index value of countries on each indicators. 
 
 ```{r}
 
