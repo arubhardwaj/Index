@@ -13,7 +13,7 @@ pander::panderOptions('table.split.table', Inf)
 ############ Load Data##############################################
 ####################################################################
 index_data <- read_excel("/cloud/project/index_data.xlsx")
-pander(index_data) # This represents data more nicely
+pander(index_data) # This presents data more nicely
 
 ####################################################################
 ############ Preliminaries #########################################
