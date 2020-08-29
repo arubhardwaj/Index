@@ -1,2 +1,2 @@
-[Full project is available here](https://arubhardwaj.github.io/Code/saarcindex.html)
+[Full project is available here](https://arubhardwaj.github.io/codes/saarcindex.html)
  
